@@ -180,4 +180,10 @@ GitHub: [Krishna1187](https://github.com/Krishna1187)
 
 ---
 
-*This project is developed as a practical implementation of Machine Learning and Natural Language Processing techniques for customer review sentiment analysis.*
+*This project is developed as a practical implementation of Machine Learning and Natural Language Processing techniques for customer review sentiment analysis.*str
+
+## Application Preview
+
+### Positive Sentiment Prediction
+
+![Positive Prediction](screenshots/positive_prediction.png)
